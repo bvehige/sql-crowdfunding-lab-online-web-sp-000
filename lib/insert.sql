@@ -5,7 +5,7 @@ INSERT INTO users (name, age) VALUES ("Alex", 33);
 INSERT INTO users (name, age) VALUES ("Amanda", 24); 
 INSERT INTO users (name, age) VALUES ("Sophie", 24); 
 INSERT INTO users (name, age) VALUES ("Rosey", 9); 
-INSERT INTO users (name, age) VALUES ("Victoria", 23) 
+INSERT INTO users (name, age) VALUES ("Victoria", 23); 
 INSERT INTO users (name, age) VALUES ("Franz", 100); 
 INSERT INTO users (name, age) VALUES ("Hermione", 30);
 INSERT INTO users (name, age) VALUES ("Voldemort", 90);
